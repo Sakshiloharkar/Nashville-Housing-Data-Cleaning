@@ -3,6 +3,11 @@
 SELECT * FROM Data;
 
 
+
+<img width="5000" alt="image" src="https://user-images.githubusercontent.com/70011358/222725235-08256add-1796-4606-93d7-af7b9e73a582.png">
+
+
+
 # 1. Standardize date format
 
 ALTER TABLE Data
